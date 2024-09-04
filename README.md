@@ -2,7 +2,7 @@
   
 # **I'm Shubham**
 
-**Creating Games that are relevant for decades.**
+**Learning to create games that can stand the test of time and stay relevant for years to come.**
 
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@OgShubStudio)
 
