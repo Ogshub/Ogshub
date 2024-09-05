@@ -1,4 +1,4 @@
-<div align="center">
+<div align ="center">
   
   <link rel="stylesheet" href="https://fonts.google.com/specimen/Oswald:wght@300;500;700&display=swap">
 
@@ -14,19 +14,19 @@
 
   <div style="background-color: #505050; padding: 20px; border-radius: 10px; display: inline-block;">
     <a href="https://twitter.com/shubham_30704" target="blank">
-      <img src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?w=740&t=st=1725514633~exp=1725515233~hmac=1e73d0f50c9354d783d0cf5e147f88928bc9bebae09644ecc74a97d48eb518f8" alt="shubham_30704" height="40" width="40" style="margin: 0 10px;" />
+      <img src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?w=740&t=st=1725514633~exp=1725515233~hmac=1e73d0f50c9354d783d0cf5e147f88928bc9bebae09644ecc74a97d48eb518f8" alt="shubham_30704" height="40" width="40" style="margin: 0 15px;" />
     </a>
     <a href="https://linkedin.com/in/ogshub" target="blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ogshub" height="40" width="40" style="margin: 0 10px;" />
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ogshub" height="40" width="40" style="margin: 0 15px;" />
     </a>
     <a href="https://instagram.com/og_shub" target="blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="og_shub" height="40" width="40" style="margin: 0 10px;" />
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="og_shub" height="40" width="40" style="margin: 0 15px;" />
     </a>
     <a href="https://www.youtube.com/@ogshubstudio" target="blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="OgShubStudio" height="40" width="40" style="margin: 0 10px;" />
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="OgShubStudio" height="40" width="40" style="margin: 0 15px;" />
     </a>
     <a href="https://discord.gg/fEZgfvr3" target="blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ogshub" height="40" width="40" style="margin: 0 10px;" />
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ogshub" height="40" width="40" style="margin: 0 15px;" />
     </a>
   </div>
 
