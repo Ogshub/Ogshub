@@ -25,7 +25,7 @@
     <a href="https://www.youtube.com/@ogshubstudio" target="blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="OgShubStudio" height="40" width="40" style="margin: 0 15px;" />
     </a>
-    <a href="https://discord.gg/fEZgfvr3" target="blank">
+    <a href="https://discord.gg/JquepKCX" target="blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ogshub" height="40" width="40" style="margin: 0 15px;" />
     </a>
   </div>
