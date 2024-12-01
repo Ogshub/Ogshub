@@ -31,7 +31,7 @@
   ## Languages and Tools:
   <br>
 
-  <div style="background-color: #505050; padding: 20px; border-radius: 10px; display: inline-block;">
+ <div style="background-color: #505050; padding: 20px; border-radius: 10px; display: inline-block;">
     <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"  />
     </a>
@@ -53,11 +53,11 @@
     <a href="https://developer.android.com" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"  />
     </a>
-    <!-- Correct Unreal Engine Icon -->
+    <!-- Unreal Engine Icon with Devicon -->
     <a href="https://www.unrealengine.com/" target="_blank" rel="noreferrer">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Unreal_Engine_Logo_2015.svg" alt="unreal engine" width="40" height="40" />
+      <i class="devicon-unrealengine-original-wordmark" style="font-size: 40px;"></i>
     </a>
-    <!-- Add C++ Icon -->
+    <!-- C++ Icon -->
     <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
       <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="c++" width="40" height="40" />
     </a>
