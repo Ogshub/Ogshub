@@ -53,13 +53,8 @@
     <a href="https://developer.android.com" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"  />
     </a>
-    <!-- Unreal Engine -->
-    
-            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-          
-    <!-- C++ -->
-    <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="c++" width="40" height="40" />
-    </a>
+   <a href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="unrealEngine" width="40" height="40"  />
+    </a
   </div>
 </div>
