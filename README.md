@@ -53,8 +53,13 @@
     <a href="https://developer.android.com" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"  />
     </a>
-   <a href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="unrealEngine" width="40" height="40"  />
-    </a
-  </div>
+    <!-- Correct Unreal Engine Icon -->
+    <a href="https://www.unrealengine.com/" target="_blank" rel="noreferrer">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Unreal_Engine_Logo_2015.svg" alt="unreal engine" width="40" height="40" />
+    </a>
+    <!-- Add C++ Icon -->
+    <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="c++" width="40" height="40" />
+    </a>
+</div>
 </div>
