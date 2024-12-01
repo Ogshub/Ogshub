@@ -55,7 +55,7 @@
     </a>
     <!-- Unreal Engine Icon with Devicon -->
     <a href="https://www.unrealengine.com/" target="_blank" rel="noreferrer">
-      <i class="devicon-unrealengine-original-wordmark" style="font-size: 40px;"></i>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" alt="Unreal Engine" width="40" height="40" />
     </a>
     <!-- C++ Icon -->
     <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
