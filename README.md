@@ -3,7 +3,7 @@
 
   # **I'm Shubham**
 
-  **Learning to create games that can stand the test of time and stay relevant for years to come.**
+  **Learning to create Solutions that can stand the test of time and stay relevant for years to come.**
   
   - **How to reach me:** [shubhamprajapati30704@gmail.com](mailto:shubhamprajapati30704@gmail.com)
 
