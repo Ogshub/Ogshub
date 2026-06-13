@@ -12,7 +12,7 @@
 
   <div style="background-color: #505050; padding: 20px; border-radius: 10px; display: inline-block;">
     <a href="https://twitter.com/shubham_30704" target="blank">
-      <img src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?w=740&t=st=1725514633~exp=1725515233~hmac=1e73d0f50c9354d783d0cf5e147f88928bc9bebae09644ecc74a97d48eb518f8" alt="shubham_30704" height="40" width="40" style="margin: 0 15px;" />
+      <img src="https://cdn.simpleicons.org/x/ffffff" alt="shubham_30704" height="40" width="40" style="margin: 0 15px;" />
     </a>
     <a href="https://linkedin.com/in/ogshub" target="blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ogshub" height="40" width="40" style="margin: 0 15px;" />
@@ -36,7 +36,7 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"  />
     </a>
     <a href="https://unity.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"  />
+      <img src="https://cdn.simpleicons.org/unity/ffffff" alt="unity" width="40" height="40"  />
     </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"  />
@@ -55,7 +55,7 @@
     </a>
     <!-- Unreal Engine Icon with Devicon -->
     <a href="https://www.unrealengine.com/" target="_blank" rel="noreferrer">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" alt="Unreal Engine" width="40" height="40" />
+      <img src="https://cdn.simpleicons.org/unrealengine/ffffff" alt="Unreal Engine" width="40" height="40" />
     </a>
     <!-- C++ Icon -->
     <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
