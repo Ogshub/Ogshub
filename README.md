@@ -6,7 +6,7 @@
       <p style="font-size: 16px; line-height: 1.6;">
         🚀 <b>Software Engineer & Game Developer</b>
         <br>
-        Currently pursuing my <b>MCA</b> and specializing in <b>DevOps & Infrastructure</b>. Passionate about constructing immersive virtual experiences in Unity and Unreal Engine, writing clean C++/C# code, and designing resilient software solutions built to stand the test of time.
+        Currently pursuing my <b>MCA</b> and specializing in <b>AI & Machine Learning</b>. Passionate about constructing immersive virtual experiences in Unity and Unreal Engine, writing clean C++/C# code, and designing resilient software solutions built to stand the test of time.
       </p>
       <p>
         📫 <b>Get in touch:</b> <a href="mailto:shubhamprajapati30704@gmail.com">shubhamprajapati30704@gmail.com</a>
