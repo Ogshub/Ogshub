@@ -1,65 +1,142 @@
+<!--
+  ✨ Beautifully customized GitHub Profile README by Antigravity
+  🔗 To use: Create a repository named exactly as your username "ogshub" (or your actual username)
+            and paste this code into the README.md file.
+-->
+
 <div align="center">
-  <link rel="stylesheet" href="https://fonts.google.com/specimen/Oswald:wght@300;500;700&display=swap">
-
-  # **I'm Shubham**
-
-  **Learning to create Solutions that can stand the test of time and stay relevant for years to come.**
   
-  - **How to reach me:** [shubhamprajapati30704@gmail.com](mailto:shubhamprajapati30704@gmail.com)
+  <!-- Cool custom animated banner/SVG or title header -->
+  <img src="https://capsule-render.vercel.app/render?type=glass&color=1e293b&height=180&section=header&text=Hey,%20I'm%20Shubham%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header Banner" />
 
-  ## Connect with me:
-  <br>
+  <br/>
 
-  <div style="background-color: #505050; padding: 20px; border-radius: 10px; display: inline-block;">
-    <a href="https://twitter.com/shubham_30704" target="blank">
-      <img src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?w=740&t=st=1725514633~exp=1725515233~hmac=1e73d0f50c9354d783d0cf5e147f88928bc9bebae09644ecc74a97d48eb518f8" alt="shubham_30704" height="40" width="40" style="margin: 0 15px;" />
-    </a>
-    <a href="https://linkedin.com/in/ogshub" target="blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ogshub" height="40" width="40" style="margin: 0 15px;" />
-    </a>
-    <a href="https://instagram.com/og_shub" target="blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="og_shub" height="40" width="40" style="margin: 0 15px;" />
-    </a>
-    <a href="https://www.youtube.com/@ogshubstudio" target="blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="OgShubStudio" height="40" width="40" style="margin: 0 15px;" />
-    </a>
-    <a href="https://discord.gg/JquepKCX" target="blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ogshub" height="40" width="40" style="margin: 0 15px;" />
-    </a>
-  </div>
+  <!-- Dynamic Typing SVG describing your skills and vision -->
+  <a href="https://github.com/ogshub">
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=22&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+solutions+that+stand+the+test+of+time;Unity+%26+Unreal+Engine+Developer;Creative+3D+Artist+%26+Game+Programmer;Passionate+C%23+%2F+C%2B%2B+Coder" alt="Typing SVG" />
+  </a>
 
-  ## Languages and Tools:
-  <br>
+  <br/>
+  
+  <!-- Profile Visitor Counter badge -->
+  <img src="https://komarev.com/ghpvc/?username=ogshub&color=38bdf8&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 
- <div style="background-color: #505050; padding: 20px; border-radius: 10px; display: inline-block;">
-    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"  />
-    </a>
-    <a href="https://unity.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"  />
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"  />
-    </a>
-    <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-      <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="50" height="40"  />
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"  />
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"  />
-    </a>
-    <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"  />
-    </a>
-    <!-- Unreal Engine Icon with Devicon -->
-    <a href="https://www.unrealengine.com/" target="_blank" rel="noreferrer">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" alt="Unreal Engine" width="40" height="40" />
-    </a>
-    <!-- C++ Icon -->
-    <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="40" height="40" />
-    </a>
+  <hr width="80%" size="1" color="#334155" />
+
+  <!-- A Premium Intro Quote -->
+  <blockquote style="font-family: 'Outfit', sans-serif; font-size: 16px; border-left: 4px solid #38bdf8; background: #0f172a; padding: 15px; border-radius: 8px; max-width: 700px; text-align: center;">
+    <i>"Learning to create solutions that can stand the test of time and stay relevant for years to come."</i>
+  </blockquote>
+
 </div>
+
+<br/>
+
+## 💫 About Me
+<div align="left">
+  <table border="0" cellpadding="10" cellspacing="0">
+    <tr>
+      <td width="60%" valign="top">
+        <p>👨‍💻 I am a passionate Developer and 3D Artist pursuing advanced studies in Computer Applications.</p>
+        <p>🎮 Focused on game development, immersive experiences, and scalable solutions.</p>
+        <p>🎨 Crafting 3D assets and writing optimized, clean code to bring virtual worlds to life.</p>
+        <p>📧 <b>Get in touch:</b> <a href="mailto:shubhamprajapati30704@gmail.com">shubhamprajapati30704@gmail.com</a></p>
+      </td>
+      <td width="40%" align="center" valign="middle">
+        <!-- Interactive coding illustration or logo -->
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHBhYW85MW9wNWltamNia2ZiaTVjZTZ2MXY4Nmdsc20xZTFpZHdzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1tvI9svkIWwpVYr/giphy.gif" width="180" alt="Coding GIF" />
+      </td>
+    </tr>
+  </table>
 </div>
+
+<br/>
+
+## 🛠️ Languages & Tools
+I build with a versatile toolkit spanning game engines, 3D modeling, and modern programming languages:
+
+### 🎮 Game Development & 3D Design
+<p align="left">
+  <a href="https://unity.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" height="40" />
+  </a>&nbsp;
+  <a href="https://www.unrealengine.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?style=for-the-badge&logo=unreal-engine&logoColor=white" alt="Unreal Engine" height="40" />
+  </a>&nbsp;
+  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" height="40" />
+  </a>
+</p>
+
+### 💻 Languages
+<p align="left">
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" height="40" />
+  </a>&nbsp;
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" height="40" />
+  </a>&nbsp;
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="40" />
+  </a>&nbsp;
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="40" />
+  </a>
+</p>
+
+### 📱 Platforms & Systems
+<p align="left">
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Android-%23A4C639.svg?style=for-the-badge&logo=android&logoColor=white" alt="Android" height="40" />
+  </a>&nbsp;
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="40" />
+  </a>
+</p>
+
+<br/>
+
+## 📈 GitHub Stats
+<div align="center">
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=ogshub&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8" alt="GitHub Stats" width="95%" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogshub&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8" alt="Top Languages" width="95%" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <br/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ogshub&theme=tokyonight&hide_border=true&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" width="95%" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+## 🤝 Connect With Me
+Let's talk about gaming, 3D art, devops, or potential collaborations!
+
+<div align="center">
+  <a href="https://linkedin.com/in/ogshub" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40" />
+  </a>&nbsp;
+  <a href="https://twitter.com/shubham_30704" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="Twitter" height="40" />
+  </a>&nbsp;
+  <a href="https://instagram.com/og_shub" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" height="40" />
+  </a>&nbsp;
+  <a href="https://www.youtube.com/@ogshubstudio" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" height="40" />
+  </a>&nbsp;
+  <a href="https://discord.gg/JquepKCX" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord" height="40" />
+  </a>
+</div>
+
+<br/>
