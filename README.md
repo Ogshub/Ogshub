@@ -4,10 +4,12 @@
     <td width="55%" valign="top">
       <h1>👋 I'm Shubham</h1>
       <p style="font-size: 16px; line-height: 1.6;">
-        <b>Learning to create Solutions that can stand the test of time and stay relevant for years to come.</b>
+        🚀 <b>Software Engineer & Game Developer</b>
+        <br>
+        Currently pursuing my <b>MCA</b> and specializing in <b>DevOps & Infrastructure</b>. Passionate about constructing immersive virtual experiences in Unity and Unreal Engine, writing clean C++/C# code, and designing resilient software solutions built to stand the test of time.
       </p>
       <p>
-        📧 <b>How to reach me:</b> <a href="mailto:shubhamprajapati30704@gmail.com">shubhamprajapati30704@gmail.com</a>
+        📫 <b>Get in touch:</b> <a href="mailto:shubhamprajapati30704@gmail.com">shubhamprajapati30704@gmail.com</a>
       </p>
       <br>
       <h3>Connect with me:</h3>
